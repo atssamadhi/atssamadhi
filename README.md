@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tharindu Jayakody</h1>
 <h3 align="center">Code,Learn,Innovate. | Passionate about Software Engineering.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=atssamadhi&label=Profile%20views&color=0e75b6&style=flat" alt="atssamadhi" /> </p>1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=atssamadhi&label=Profile%20views&color=0e75b6&style=flat" alt="atssamadhi" /> </p>1109&label=Profile%20views&color=0e75b6&style=flat" alt="atssamadhi" /> </p>
 
 <table align="center">
 <tr border="none">
