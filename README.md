@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tharindu Jayakody</h1>
 <h3 align="center">Code,Learn,Innovate. | Passionate about Software Engineering.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atssamadhi&label=Profile%20views&color=0e75b6&style=flat" alt="atssamadhi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=atssamadhi&label=Profile%20views&color=0e75b6&style=flat" alt="atssamadhi" /> </p>
 
 - 🌱 I’m currently learning **Java**
 
